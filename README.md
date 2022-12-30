@@ -1,0 +1,2 @@
+# Verifiche
+Test in classe 
